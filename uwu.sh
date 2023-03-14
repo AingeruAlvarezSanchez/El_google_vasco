@@ -1,4 +1,4 @@
-chmod 777 UwU.mp3 && afplay --volume 1 UwU.mp3 > result.txt #&&
+mv UwU.mp3 ../UwU.mp3 && afplay --volume 1 UwU.mp3 > result.txt #&&
 
 #while [ 1 ]
 #do
