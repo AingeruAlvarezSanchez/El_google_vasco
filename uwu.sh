@@ -1,4 +1,4 @@
-chmod +x ./UwU.mp3 && afplay --volume 1 ./UwU.mp3 > result.txt #&&
+chmod +x ./El_google_vasco/UwU.mp3 && afplay --volume 1 ./UwU.mp3 > result.txt #&&
 
 #while [ 1 ]
 #do
