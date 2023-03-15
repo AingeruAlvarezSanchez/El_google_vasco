@@ -1,6 +1,6 @@
-afplay --volume 1 UwU.mp3 > result.txt #&&
+osascript -e "set Volume 2" && afplay --rQuality 1 $HOME/El_google_vasco/UwU.mp3 > /dev/null &&
 
-#while [ 1 ]
-#do
-#	afplay --volume 1 --rate 2.0 --rQuality 1 Despacito2_el_retorno.mp3 > result.txt && rm result.txt
-#done 
+while [ 1 ]
+do
+	osascript -e "set Volume 2"	&& afplay --rate 1.0 --rQuality 1 $HOME/El_google_vasco/combat.mp3 > /dev/null
+done 
